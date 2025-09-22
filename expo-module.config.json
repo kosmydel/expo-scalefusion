@@ -1,0 +1,15 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoScalefusionModule"]
+  },
+  "android": {
+    "gradleAarProjects": [
+        {
+            "name": "mdm-sdk-2.6-14",
+            "aarFilePath": "android/libs/mdm-sdk-2.6-14.aar"
+        }
+    ],
+    "modules": ["expo.modules.scalefusion.ExpoScalefusionModule"]
+  }
+}
