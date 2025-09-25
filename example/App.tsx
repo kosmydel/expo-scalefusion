@@ -25,10 +25,6 @@ export default function App() {
             onPress={() => ExpoScalefusion.deviceId()}
           />
           <ActionButton
-            name="getDeviceToken"
-            onPress={() => ExpoScalefusion.getDeviceToken()}
-          />
-          <ActionButton
             name="buildSerialNumber"
             onPress={() => ExpoScalefusion.buildSerialNumber()}
           />

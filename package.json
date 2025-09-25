@@ -1,6 +1,6 @@
 {
   "name": "expo-scalefusion",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Scalefusion Android MDM SDK integration for Expo SDK.",
   "main": "build/index.js",
   "types": "build/index.d.ts",

@@ -6,7 +6,6 @@ declare class ExpoScalefusionModule extends NativeModule {
   isEnrolled(): boolean;
   isManaged(): boolean;
   deviceId(): string;
-  getDeviceToken(): string;
   buildSerialNumber(): string;
 
   // WiFi APIs

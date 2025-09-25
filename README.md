@@ -35,7 +35,6 @@ ExpoScalefusion.buildSerialNumber();
 |                        | `isEnrolled()`                 | Check if device is enrolled in MDM           | `boolean` |
 |                        | `isManaged()`                  | Check if device is managed                   | `boolean` |
 |                        | `deviceId()`                   | Get device identifier                        | `string`  |
-|                        | `getDeviceToken()`             | Get device token                             | `string`  |
 |                        | `buildSerialNumber()`          | Get device serial number                     | `string`  |
 | **WiFi**               | `launchWifiSupported()`        | Check if WiFi launch is supported            | `boolean` |
 |                        | `launchWifi()`                 | Launch WiFi settings                         | `void`    |
